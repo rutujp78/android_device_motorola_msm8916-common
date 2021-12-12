@@ -1,0 +1,45 @@
+[
+  {
+    "remote": "github",
+    "repository":  "LineageOS/android_kernel_motorola_msm8916",
+    "revision": "lineage-18.1",
+    "target_path": "kernel/motorola/msm8916"
+  },
+  {
+    "remote": "github"
+    "repository": "TheMuppets/proprietary_vendor_motorola",
+    "revision": "lineage-18.1",
+    "target_path": "vendor/motorola"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_external_sony_boringssl-compat",
+    "revision": "lineage-18.1",
+    "target_path": "external/sony/boringssl-compat"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_sony_timekeep",
+    "revision": "lineage18.1",
+    "target_path": "hardware/sony/timekeep"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_qcom_audio",
+    "revision": "lineage-18.1-caf-msm8916",
+    "target_path": "hardware/qcom-caf/msm8916/audio"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_qcom_display",
+    "revision": "lineage18.1-caf-msm8916",
+    "target_path": "hardware/qcom-caf/msm8916/display"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_qcom_media",
+    "revision": "lineage-18.1-caf-msm8916",
+    "target_path": "hardware/qcom-caf/msm8916/media"
+  }
+]
+
