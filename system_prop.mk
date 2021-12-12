@@ -119,8 +119,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.radio.aosp_usr_pref_sel=true
 
 # Security patch level
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.lineage.build.vendor_security_patch=2018-06-01
+#PRODUCT_PROPERTY_OVERRIDES += \
+#    ro.lineage.build.vendor_security_patch=2018-06-01
 
 # RmNet Data
 PRODUCT_PROPERTY_OVERRIDES += \
