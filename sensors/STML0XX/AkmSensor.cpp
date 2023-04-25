@@ -28,7 +28,7 @@
 #include <sys/select.h>
 #include <dlfcn.h>
 
-#include <cutils/log.h>
+#include <log/log.h>
 
 #include "AkmSensor.h"
 #include <utils/SystemClock.h>
