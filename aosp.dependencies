@@ -41,5 +41,11 @@
     "revision": "lineage-18.1-caf-msm8916",
     "target_path": "hardware/qcom-caf/msm8916/media"
   }
+  {
+    "remote": "github",
+    "repository": "PixelExperience/hardware_motorola",
+    "revision": "eleven",
+    "target_path": "hardware/motorola";
+  }
 ]
 
